@@ -13,5 +13,16 @@
   "description": "Aplicativo Voice Legacy",
   "devDependencies": {},
   "author": "Os cara do bepid",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betovieira/VoiceLegacyShareLink.git"
+  },
+  "keywords": [
+    "voicelegacy"
+  ],
+  "bugs": {
+    "url": "https://github.com/betovieira/VoiceLegacyShareLink/issues"
+  },
+  "homepage": "https://github.com/betovieira/VoiceLegacyShareLink#readme"
 }
