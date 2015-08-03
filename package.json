@@ -1,0 +1,17 @@
+{
+  "name": "voicelegacy",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "parse": "latest",
+    "node-parse-api": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "description": "Aplicativo Voice Legacy",
+  "devDependencies": {},
+  "author": "Os cara do bepid",
+  "license": "ISC"
+}
